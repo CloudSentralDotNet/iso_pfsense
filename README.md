@@ -1,5 +1,5 @@
 Download pfsense isos' via https://github.com/cloudsvrtech/pfsense_iso/releases
-or alternatively use these download links directly:
+or alternatively use these direct download links:
 
 https://github.com/cloudsvrtech/pfsense_iso/releases/download/v2.3/pfSense-CE-2.3-RELEASE-amd64.iso
 https://github.com/cloudsvrtech/pfsense_iso/releases/download/v2.3.4/pfSense-CE-2.3.4-RELEASE-amd64.iso
