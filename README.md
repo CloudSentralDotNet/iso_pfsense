@@ -1,4 +1,4 @@
-Download our selected pfsense isos' at  https://github.com/CloudSentralDotNet/pfsense_iso/releases     
+Download our selected pfsense isos' at  https://github.com/CloudSentralDotNet/iso_pfsense/releases     
 
 or alternatively use these direct download links:       
 
