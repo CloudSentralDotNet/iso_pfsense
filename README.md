@@ -9,11 +9,11 @@ or alternatively use these direct download links:
 * https://github.com/CloudSentralDotNet/iso_pfsense/releases/download/2.3.5/pfSense-CE-2.3.5-RELEASE-amd64.img    
 
 
-Burning ISO / IMG to a USB Drive
+Burning ISO / IMG to a USB Drive using 'dd'
 
-* Insert USB drive but do not mount it: it must be unmounted.
-* Check drive designation by running 'sudo lsblk' in a console
-* Run 'sudo dd bs=4M if=/path/to/pfsense.iso of=/dev/sdX status=progress && sync' 
+* Insert USB drive but do not mount it.
+* Check drive designation by running 'sudo lsblk' in a console.
+* Run 'sudo dd bs=4M if=/path/to/pfsense.iso  of=/dev/sdX   status=progress  &&  sync' 
   Replace sdX with your USB drive designation, for example: sdc (be very careful here!).
 * The sync part is important, do not omit it!
 
